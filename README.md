@@ -1,16 +1,43 @@
-# 👨‍💻 ouDavisao
+# 👨‍💻 Davi Arthur
 
-Bem-vindo ao meu repositório pessoal! Aqui é onde compartilho meus estudos, testes e projetos enquanto curso **Sistemas de Informação**. Este espaço é meu laboratório de aprendizado e também parte do meu portfólio para crescer na área de tecnologia e, quem sabe, conseguir aquela vaga dos sonhos! 🚀
+**`Estudante de Sistemas de Informação`**
+
+Me chamo **Davi Arthur**, sou estudante de **Sistemas de Informação** e estou em constante evolução como desenvolvedor. Criei este repositório como parte da minha jornada de aprendizado, onde compartilho projetos, práticas e conteúdos que desenvolvo durante meus estudos. Minha meta é crescer profissionalmente na área de tecnologia e conquistar meu espaço no mercado.
+
+<p align="left">
+    <a href="https://www.youtube.com/@ouDavisao?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCWsz1OyiFb2ZoR4FeTppwtg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@ouDavisao">
+        <img 
+            alt="youtube views" 
+            title="Visualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCWsz1OyiFb2ZoR4FeTppwtg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/ouDavisao?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ouDavisao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/ouDavisao?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ouDavisao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## 🧠 Sobre Mim
-
-Me chamo **Davi Arthur**, sou estudante de **Sistemas de Informação** e estou constantemente aprendendo novas tecnologias, linguagens de programação e boas práticas de desenvolvimento. Uso este repositório para documentar minha jornada e desenvolver um portfólio que me destaque no mercado de trabalho.
-
----
-
-## 🛠️ Tecnologias & Ferramentas em Aprendizado
+### 🧠 Tecnologias em Aprendizado
 
 <img 
     align="left" 
@@ -61,26 +88,21 @@ Me chamo **Davi Arthur**, sou estudante de **Sistemas de Informação** e estou 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
-<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=ouDavisao&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouDavisao&theme=tokyonight&layout=compact&langs_count=8&custom_title=Linguagens+Mais+Usadas" />
-
-</p>
-
 <br/>
 <br/>
 
 ---
 
-## 🌱 Objetivos com este Repositório
+### 🌱 Objetivos com este Repositório
 
-- Praticar o que aprendo na faculdade.
-- Montar um portfólio técnico e pessoal.
-- Compartilhar conhecimento e aprender com a comunidade.
+- Praticar o que aprendo na faculdade;
+- Construir um portfólio técnico e pessoal;
+- Compartilhar conhecimento com a comunidade;
 - Me preparar para oportunidades reais no mercado de trabalho.
 
 ---
 
-## 📂 Estrutura Esperada
+### 📁 Estrutura do Repositório
 
 ```bash
 ouDavisao/
