@@ -6,33 +6,76 @@ Bem-vindo ao meu repositório pessoal! Aqui é onde compartilho meus estudos, te
 
 ## 🧠 Sobre Mim
 
-Sou estudante de **Sistemas de Informação** e estou constantemente aprendendo novas tecnologias, linguagens de programação e boas práticas de desenvolvimento. Estou usando este repositório para documentar essa jornada.
+Me chamo **Davi Arthur**, sou estudante de **Sistemas de Informação** e estou constantemente aprendendo novas tecnologias, linguagens de programação e boas práticas de desenvolvimento. Uso este repositório para documentar minha jornada e desenvolver um portfólio que me destaque no mercado de trabalho.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas que estou explorando
+## 🛠️ Tecnologias & Ferramentas em Aprendizado
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
 
-> *Este repositório pode conter projetos web, scripts, anotações e experimentos com diferentes linguagens e ferramentas.*
+<br/>
+<br/>
 
 ---
 
-## 🌱 Objetivos
+## 🌱 Objetivos com este Repositório
 
 - Praticar o que aprendo na faculdade.
-- Montar um portfólio técnico.
+- Montar um portfólio técnico e pessoal.
 - Compartilhar conhecimento e aprender com a comunidade.
-- Me preparar para oportunidades no mercado de trabalho.
+- Me preparar para oportunidades reais no mercado de trabalho.
 
 ---
 
-## 📂 Estrutura esperada
+## 📂 Estrutura Esperada
 
 ```bash
 ouDavisao/
