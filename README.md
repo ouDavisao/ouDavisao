@@ -1,4 +1,4 @@
-# 👨‍💻 ouDavisao
+# 👨‍💻 ouDavisão
 
 Bem-vindo ao meu repositório pessoal! Aqui é onde compartilho meus estudos, testes e projetos enquanto curso **Sistemas de Informação**. Este espaço é meu laboratório de aprendizado e também parte do meu portfólio para crescer na área de tecnologia e, quem sabe, conseguir aquela vaga dos sonhos! 🚀
 
